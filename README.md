@@ -1,3 +1,3 @@
-# Pe2-spectrum-analyzer
+# Spectrum Analyzer
 
 Stijn Hoeymans
