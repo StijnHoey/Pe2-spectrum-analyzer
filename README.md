@@ -37,6 +37,6 @@ Berekeningen voor frequentie in documentatie. \
 9. 8000
 10. 16000
 
-TDA7943:
+TDA7492:
 
 
