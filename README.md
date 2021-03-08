@@ -25,18 +25,17 @@ equlaizer:
 Gebruikte OPAMP: LM072 \
 Berekeningen voor frequentie in documentatie. \ 
 
-10 Frequenties:
-1. d
-2. 2
-3. 2
-4. 2
-5. 2
-6. 2
-7. 2
-8. 2
-9. 2
-10. 2
-
+10 Frequenties (Hz) :
+1. 31,5
+2. 63
+3. 125
+4. 250
+5. 500
+6. 1000
+7. 2000
+8. 4000
+9. 8000
+10. 16000
 
 TDA7943:
 
