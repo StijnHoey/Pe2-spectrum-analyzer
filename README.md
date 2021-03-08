@@ -22,6 +22,20 @@ Emittervolger met zenerdiode: 2n3055
 
 equlaizer:
 
+Gebruikte OPAMP: LM072 \
+Berekeningen voor frequentie in documentatie. \ 
+
+10 Frequenties:
+1. d
+2. 2
+3. 2
+4. 2
+5. 2
+6. 2
+7. 2
+8. 2
+9. 2
+10. 2
 
 
 TDA7943:
