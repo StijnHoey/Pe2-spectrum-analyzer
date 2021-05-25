@@ -23,20 +23,19 @@ Emittervolger met zenerdiode: 2n3055
 equlaizer:
 
 Gebruikte OPAMP: LM072 \
-Berekeningen voor frequentie in documentatie. \ 
+Laagdoorlaatfilter en Hoogdoorlaatfilter.\
+Samen opgeteld met sommeerversterker.\
+Laagdoorlaatfilter voor bass.\
+Hoogdoorlaatfilter voor treble. \
+Versterking/verzwakking bepaald door digital potentiometer.\
 
-10 Frequenties (Hz) :
-1. 31,5
-2. 63
-3. 125
-4. 250
-5. 500
-6. 1000
-7. 2000
-8. 4000
-9. 8000
-10. 16000
+Arduinoshield:\
+Shield voor arduino om audio in te lezen.\
+Voorzien van laagdoorlaatfilter.\
+Offset regelbaar tot 3,3V.\
 
 TDA7492:
+25W stereo versterker. \
+Aan/uit via shutdown pin en mute pin. \
 
 
