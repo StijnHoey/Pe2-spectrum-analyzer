@@ -27,7 +27,8 @@ Laagdoorlaatfilter en Hoogdoorlaatfilter.\
 Samen opgeteld met sommeerversterker.\
 Laagdoorlaatfilter voor bass.\
 Hoogdoorlaatfilter voor treble. \
-Versterking/verzwakking bepaald door digital potentiometer.\
+Versterking/verzwakking bepaald door digitale potentiometer.\
+Digitale quad potentiometer: AD5263. \
 
 Arduinoshield:\
 Shield voor arduino om audio in te lezen.\
